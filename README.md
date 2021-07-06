@@ -10,6 +10,6 @@
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/henrique-serr%c3%a3o-453759165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/henrique-serr%c3%a3o-453759165/" height="30" width="40" /></a>
-<a href="mailto:henriquemellodev@gmail.com"><img src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" alt="Gmail" title="Gmail" height="30" width="40"></a>
+<a href="mailto:henriquemellodev@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" alt="Gmail" title="Gmail" height="30" width="40"></a>
 </p>
 
